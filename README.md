@@ -58,6 +58,15 @@ pip install bidict lunar_python colorama
 
 # 使用
 
+- 网页界面（八字排盘）
+
+```bash
+pip install -r requirements.txt
+python web.py
+```
+
+浏览器打开 http://127.0.0.1:5000 ，填写年月日时、历法、性别即可排盘（可用 PORT 环境变量改端口）。
+
 - 生肖合婚
 
 ```python

@@ -1,0 +1,4 @@
+bidict
+lunar_python
+colorama
+flask
